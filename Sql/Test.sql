@@ -12,3 +12,5 @@ where	report_date in ('2021-01-01' ,'2021-01-02' ,'2021-01-03', '2021-01-04', '2
 select * from #tab_1 where holidays = 1
 
 select 1
+
+select 2
